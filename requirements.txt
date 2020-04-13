@@ -1,0 +1,5 @@
+flask
+redis
+line-bot-sdk
+psycopg2
+python-google-places
